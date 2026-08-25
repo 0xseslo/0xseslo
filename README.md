@@ -21,7 +21,7 @@
   <a href="https://tryhackme.com/p/0xseslo">
     <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
   </a>
-  <a href="https://app.hackthebox.com/users/3257362?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs">
+  <a href="https://app.hackthebox.com/users/3257362>
     <img src="https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
   </a>
 </p>
@@ -61,7 +61,6 @@ Security Academy**, treating every lab and machine as production-grade practice.
 > **Malware Development & AV/EDR Evasion**
 > Early stage — actively building this skillset to round out my offensive toolkit.
  
----
  
 ## Certifications
  
