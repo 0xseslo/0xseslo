@@ -11,7 +11,7 @@
 </pre>  
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Breaking+in+so+you+don't+have+to+worry;Red+Team+Operator+%7C+CPTS+Certified;Adversary+simulation+%26+exploitation;Always+learning%2C+always+hacking" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=15eded&center=true&vCenter=true&width=600&lines=Breaking+in+so+you+don't+have+to+worry;Red+Team+Operator+%7C+CPTS+Certified;Adversary+simulation+%26+exploitation;Always+learning%2C+always+hacking" alt="Typing SVG" />
 </p>
  
 <p align="center">
@@ -21,7 +21,7 @@
   <a href="https://tryhackme.com/p/0xseslo">
     <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
   </a>
-  <a href="https://app.hackthebox.com/users/3257362>
+  <a href="https://app.hackthebox.com/users/3257362">
     <img src="https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
   </a>
 </p>
