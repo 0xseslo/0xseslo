@@ -41,7 +41,7 @@ Security Academy**, treating every lab and machine as production-grade practice.
  
 
  
-## 🧠 Focus Areas
+## Focus Areas
  
 ### Red Team / AD
 - Kerberoasting & ASREPRoasting
@@ -63,14 +63,14 @@ Security Academy**, treating every lab and machine as production-grade practice.
  
 ---
  
-## 📜 Certifications
+## Certifications
  
 <div align="left">
-[![CPTS](https://img.shields.io/badge/HTB-CPTS-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.hackthebox.com/)
+[CPTS](https://www.credly.com/badges/fcbe1885-046d-4038-8d26-697a49f7f30c)
  
 </div>
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
  
 **Recon & Enumeration**
 Nmap · NetExec · BloodHound · PowerView · ffuf
