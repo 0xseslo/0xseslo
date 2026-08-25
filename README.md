@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm 0xseslo</h1>
+<h1 align="center">Hi , I'm 0xseslo</h1>
 <h3 align="center">Red Teamer | CPTS Certified | Offensive Security</h3>
-
-#    _______                               .__          
-#    \   _  \ ___  ___  ______ ____   _____|  |   ____  
-#    /  /_\  \\  \/  / /  ___// __ \ /  ___/  |  /  _ \ 
-#    \  \_/   \>    <  \___ \\  ___/ \___ \|  |_(  <_> )
-#     \_____  /__/\_ \/____  >\___  >____  >____/\____/ 
-#           \/      \/     \/     \/     \/             
-
+<div align="center">
+<pre style="display:inline-block; text-align:left; font-family:'Fira Code','Consolas','Courier New',monospace; font-size:14px; line-height:1.3;">
+    _______                               .__          
+    \   _  \ ___  ___  ______ ____   _____|  |   ____  
+    /  /_\  \\  \/  / /  ___// __ \ /  ___/  |  /  _ \ 
+    \  \_/   \>    <  \___ \\  ___/ \___ \|  |_(  <_> )
+     \_____  /__/\_ \/____  >\___  >____  >____/\____/ 
+           \/      \/     \/     \/     \/             
+</pre>  
+</div>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Breaking+in+so+you+don't+have+to+worry;Red+Team+Operator+%7C+CPTS+Certified;Adversary+simulation+%26+exploitation;Always+learning%2C+always+hacking" alt="Typing SVG" />
 </p>
@@ -18,104 +20,90 @@
 </p>
 
 ---
+## WHOAMI
+ 
+I'm a **Junior Red Teamer** focused on offensive security, with a strong emphasis on
+**Active Directory exploitation** and adversary simulation. My core interest lies in
+understanding how attackers move through enterprise environments — from initial
+foothold to full domain compromise.
+ 
+I don't have formal industry experience yet — my skills come from consistent,
+hands-on practice through platforms like **Hack The Box** and **PortSwigger Web
+Security Academy**, treating every lab and machine as production-grade practice.
+ 
 
-### 🛡️ About Me
+ 
+## 🧠 Focus Areas
+ 
 
-- 🎯 Role: **Red Teamer — Adversary Simulation & Offensive Security**
-- 🏆 Certification: **CPTS (Certified Penetration Testing Specialist) — HackTheBox**
-- 🔭 Currently working on: **[proje adı - örn. bir pentest aracı, CTF writeup repo'su]**
-- 🌱 Currently learning: **[örn. Active Directory Exploitation, C2 Development, Evasion Techniques]**
-- 🧠 Focus areas: **Active Directory Attacks · Initial Access · Privilege Escalation · C2 Frameworks · Evasion**
-- 💬 Ask me about: **Red Team Ops, AD Pentest, Exploit Development, Post-Exploitation**
-- ⚡ Motto: **[kısa bir espri veya motto yazabilirsin]**
+### Red Team / AD
+- Kerberoasting & ASREPRoasting
+- Delegation abuse (Unconstrained / Constrained / RBCD)
+- Lateral movement & pivoting
+- Privilege escalation (Windows & Linux)
+- Post-exploitation techniques
+
+### Web App Security
+- Manual testing methodology
+- OWASP Top 10 & advanced vuln classes
+- Business logic flaws
+- Practical exploitation via PortSwigger Labs
+
+
+### Currently Learning
+> **Malware Development & AV/EDR Evasion**
+> Early stage — actively building this skillset to round out my offensive toolkit.
+ 
+---
+ 
+## 📜 Certifications
+ 
+<div align="left">
+[![CPTS](https://img.shields.io/badge/HTB-CPTS-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.hackthebox.com/)
+ 
+</div>
+
+---
+## 🛠️ Tools & Technologies
+ 
+**Recon & Enumeration**
+Nmap · NetExec · BloodHound · PowerView · ffuf
+ 
+**Active Directory Exploitation**
+Impacket Toolkit · Certipy · Mimikatz · Rubeus · Responder · Inveigh
+ 
+**Web Application Testing**
+Burp Suite · SQLMap · ffuf
+ 
+**Pivoting, Tunneling & Privilege Escalation**
+Ligolo-ng · WinPEAS · LinPEAS
+ 
+**General**
+Kali Linux · Windows · Active Directory · Python · Bash · PowerShell · Wireshark
+
 
 ---
 
-### 🏅 Certification
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HackTheBox-CPTS%20Certified-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-</p>
-
----
-
-### 🧰 Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,cpp,c,go,rust,docker,git,githubactions,aws,azure&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wazuh-2C1338?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Nessus-00B4E1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-</p>
-
----
-
-### 🏁 CTF & Practice Platforms
-
+ 
+## CTF & Practice Platforms
+ 
 <p align="center">
   <a href="https://tryhackme.com/p/0xseslo">
     <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
   </a>
-  <a href="https://app.hackthebox.com/profile/0xseslo">
+  <a href="https://app.hackthebox.com/users/3257362?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs">
     <img src="https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
   </a>
-  <a href="https://www.hackerone.com/0xseslo">
-    <img src="https://img.shields.io/badge/-HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white" />
-  </a>
 </p>
-
 ---
-
-### 📊 GitHub Stats
-
+ 
+## Connect With Me
+ 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xseslo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xseslo&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xseslo&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xseslo&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/0xseslo">
+  <a href="https://www.linkedin.com/in/mansur-rahimli/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/0xseslo">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
-  <a href="mailto:eposta@ornek.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-  <a href="https://0xseslo.github.io">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer" />
-</p>
-
-<p align="center"><i>"The quieter you become, the more you are able to hear."</i></p>
