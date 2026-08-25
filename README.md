@@ -13,13 +13,21 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Breaking+in+so+you+don't+have+to+worry;Red+Team+Operator+%7C+CPTS+Certified;Adversary+simulation+%26+exploitation;Always+learning%2C+always+hacking" alt="Typing SVG" />
 </p>
-
+ 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xseslo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/0xseslo?label=Follow&style=social" alt="GitHub followers" />
+<a href="https://www.linkedin.com/in/mansur-rahimli/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/0xseslo">
+    <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
+  </a>
+  <a href="https://app.hackthebox.com/users/3257362?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs">
+    <img src="https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  </a>
 </p>
 
 ---
+
 ## WHOAMI
  
 I'm a **Junior Red Teamer** focused on offensive security, with a strong emphasis on
@@ -35,7 +43,6 @@ Security Academy**, treating every lab and machine as production-grade practice.
  
 ## 🧠 Focus Areas
  
-
 ### Red Team / AD
 - Kerberoasting & ASREPRoasting
 - Delegation abuse (Unconstrained / Constrained / RBCD)
@@ -63,7 +70,6 @@ Security Academy**, treating every lab and machine as production-grade practice.
  
 </div>
 
----
 ## 🛠️ Tools & Technologies
  
 **Recon & Enumeration**
@@ -80,30 +86,3 @@ Ligolo-ng · WinPEAS · LinPEAS
  
 **General**
 Kali Linux · Windows · Active Directory · Python · Bash · PowerShell · Wireshark
-
-
----
-
- 
-## CTF & Practice Platforms
- 
-<p align="center">
-  <a href="https://tryhackme.com/p/0xseslo">
-    <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
-  </a>
-  <a href="https://app.hackthebox.com/users/3257362?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs">
-    <img src="https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-  </a>
-</p>
----
- 
-## Connect With Me
- 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mansur-rahimli/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
