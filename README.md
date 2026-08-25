@@ -66,7 +66,7 @@ Security Academy**, treating every lab and machine as production-grade practice.
 ## Certifications
  
 <div align="left">
-(CPTS)[https://www.credly.com/badges/fcbe1885-046d-4038-8d26-697a49f7f30c]
+[CPTS](https://www.credly.com/badges/fcbe1885-046d-4038-8d26-697a49f7f30c)
  
 </div>
 
