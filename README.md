@@ -30,14 +30,10 @@
 
 ## WHOAMI
  
-I'm a **Junior Red Teamer** focused on offensive security, with a strong emphasis on
+I'm a **Red Teamer** focused on offensive security, with a strong emphasis on
 **Active Directory exploitation** and adversary simulation. My core interest lies in
 understanding how attackers move through enterprise environments — from initial
 foothold to full domain compromise.
- 
-I don't have formal industry experience yet — my skills come from consistent,
-hands-on practice through platforms like **Hack The Box** and **PortSwigger Web
-Security Academy**, treating every lab and machine as production-grade practice.
  
 
  
